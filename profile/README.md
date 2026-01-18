@@ -60,7 +60,7 @@ We're looking for **real stories about infrastructure knowledge gaps**, not feat
 
 Your insights will shape how InfraVillage supports template sharing, cost awareness, and community knowledge.
 
-👉 **[Start a Discussion](https://github.com/infravillage/.github/discussions)**
+👉 **[Start a Discussion](https://github.com/orgs/infravillage/discussions)**
 
 ---
 
