@@ -1,0 +1,2 @@
+# .github
+InfraVillage organization profile
