@@ -44,6 +44,21 @@ InfraVillage will grow **only when DraftMyStack depends on it** — not before.
 
 ---
 
+## About This GitHub
+
+InfraVillage's core products are proprietary.
+
+This GitHub organization is used for:
+- **Public labs & experiments** (e.g., TAGtastic)
+- **Open infrastructure utilities**
+- **Marketplace templates** (coming later)
+- **Community discussions** around infra design & cost
+
+**Looking for DraftMyStack?**
+→ Visit [draftmystack.com](https://draftmystack.com) or [github.com/draftmystack](https://github.com/draftmystack)
+
+---
+
 ## Share Your Insights
 
 We're building InfraVillage based on real infrastructure challenges faced by professionals like you.
@@ -81,7 +96,7 @@ Labs projects are complete, intentional tools — not previews or teasers.
 ## Contact
 
 - 📧 Email: [hello@infravillage.com](mailto:hello@infravillage.com)
-- 🐦 Twitter: [@infravillage](https://twitter.com/infravillage)
+- 𝕏 X: [@infravillage](https://x.com/infravillage)
 
 ---
 
